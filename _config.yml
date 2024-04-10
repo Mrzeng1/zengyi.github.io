@@ -31,11 +31,8 @@ author:
   email            : "zengyi@nwafu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=gjsPxNwAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8971-2324"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Yi-Zeng-cengyi"
 
   # Repositories and software development
