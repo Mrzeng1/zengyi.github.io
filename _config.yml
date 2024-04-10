@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yi Zeng's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.png"
+  avatar           : "profile.png"
   name             : "Yi Zeng (曾奕)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "PhD"  
   bio              : "西北农林科技大学 副教授"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shaanxi Yangling"
+  employer         : "Northwest A&F University"
   uri              : # URL
   email            : "zengyi@nwafu.edu.cn" 
 
