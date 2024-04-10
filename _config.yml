@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "test.png"
+  avatar           : "zengyi.png"
   name             : "Yi Zeng (曾奕)"
   pronouns         : "PhD"  
   bio              : "西北农林科技大学 副教授"
