@@ -1,19 +1,28 @@
 ---
 permalink: /
-title: "我的主页"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-这是测试.
+曾奕，男，1994年生，湖北武汉人，博士，副研究员。长期致力于土壤侵蚀与水土保持、土壤侵蚀与碳循环、生态恢复工程环境效应及可持续性等方面研究，相关成果近年来以第一（含共同）或通讯作者在Communications Earth & Environment、Earth’s Future、Scientific Data、Agricultural and Forest Meteorology、Journal of Hydrology、Agriculture Ecosystems and Environment、Journal of Geophysical Research等期刊发表。    
 
-A data-driven personal website
+主要研究方向
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1.流域尺度土壤侵蚀与碳循环：
+针对黄土高原典型流域，开展野外监测采样与室内分析，结合地理信息技术、复合指纹识别技术、有机碳收支方程以及基于放射性碳同位素(Δ14C)的二元混合模型，系统研究了土壤侵蚀过程中有机碳的再分布过程和收支平衡，以及不同侵蚀过程中人类活动变化对有机碳输移和再分布的影响。研究结果将阐明土壤有机碳在流域尺度的侵蚀-沉积-输出特征，为进一步认识土壤侵蚀的环境效应提供理论依据和技术支撑。相关成果发表于Journal of Geophysical Research: Biogeosciences和Agriculture, Ecosystems & Environment。基于以上学术成果，获批国家自然科学基金青年基金，“干旱沉积环境下有机碳稳定性及其影响机制”，（42207405）。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2.黄土高原淤地坝拦沙及固碳效应：
+基于面向对象的遥感信息提取方法，结合高分辨率影像准确提取黄土高原淤地坝坝地，整合形成黄土高原淤地坝空间分布基础数据。该数据库为流域尺度土壤侵蚀过程反演提供基础数据；为决策者提供了高精度黄土高原淤地坝分布、坝地面积和淤积量等信息。相关成果正在投稿Earth System Science Data期刊。
+在获取黄土高原淤地坝空间分布基础上，基于无人机摄影测量技术和模拟淹没分析提出适用于复杂地形下淤地坝泥沙体积估算方法。确定了流域和区域尺度淤地坝泥沙体积估算经验公式。基于该公式我们评估了整个黄土高原淤地坝的拦沙能力。该方法的进一步应用将有助于评估区域水土保持效益，对解释黄河流域水沙变化具有重要意义。相关成果已在Journal of Hydrology期刊发表。
+通过大规模实地调查与遥感技术相结合，对黄土高原淤地坝的有机碳埋藏进行了可靠的估计。进一步结合有机碳组成和同位素分析，估算淤地坝沉积区的有机碳埋藏效率，确定并量化了淤地坝的碳汇效应。该研究有助于核算重大水土保持工程的固碳效应。相关成果已投稿至Communications Earth & Environment期刊（Under Review）。
+以上系列成果得到水利部水土保持监测中心高度重视，水土保持监测中心莫沫主任特邀两次视频会议，拟采用上述研究结果评估黄土高原淤地坝拦沙及固碳效应。
+
+3.区域尺度植被恢复生态效益：
+基于大数据遥感处理平台Google Earth Engine，利用多源遥感数据，从气候、植被和人为因素分析了中国植被恢复区域地表水变化的原因。研究结果阐明了植被恢复下的地表水动态变化，对未来政策制定者进行植被恢复和水资源管理具有指导意义。相关成果已发表于Agricultural and Forest Meteorology期刊。
+结合多源遥感数据、问卷调查数据和官方统计数据，分析和预测植被恢复对粮食供应的影响，探讨如何协调植被恢复与粮食供应的矛盾，确定平衡植被恢复与粮食供应的优化方案。研究结果将为全世界努力实现包括零饥饿、气候行动和消除贫困在内的可持续发展目标提供有价值的指导方针。相关成果已在Earth's Future期刊发表。
 
 Getting started
 ======
